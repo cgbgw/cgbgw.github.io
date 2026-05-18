@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    'cgbgw0@gmail.com'
 ];
 
 var urls=[
@@ -42,7 +42,7 @@ var urls=[
     'gunskjtnt.com/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://cgbgw.com";
 
 var newestUrls = [];
 
@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://cgbgw.pages.dev',
+	'https://cgbgw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://cgbgw.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://cgbgw.com',
 	
 ];
 var notices = [

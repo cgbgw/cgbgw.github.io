@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'cgbgw0@gmail.com'
+    'aiijucrrs.cc'
 ];
 
 var urls=[

